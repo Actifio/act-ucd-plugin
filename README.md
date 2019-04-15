@@ -6,11 +6,11 @@
 <li>Actifio virtual or hardware appliance version 7.1 or higher</li>
 <li>Actifio Global Manager version 7.1 or higher</li></ul>
 <h2>Installing</h2>
-<ol><li>Login to the UrbanCode console</li>
+<ul><li>Login to the UrbanCode console</li>
 <li>Navigate to Settings -> Automation Plugins</li>
 <li>Click the 'Load Plugin' button</li>
 <li>When prompted, click the 'Choose File' button</li>
-<li>Select the downloaded zip file and then click 'Submit'</li></ol>
+<li>Select the downloaded zip file and then click 'Submit'</li></ul>
 <h2>Using</h2>
 <ul><li>Login to the UrbanCode console</li>
 <li>Navigate to Components and create a new or select an existing component</li>
