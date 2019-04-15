@@ -17,7 +17,7 @@
 <li>On the component details page select the 'Processes' tab</li>
 <li>Create a new or select an existing process</li>
 <li>In the Process designer navigate to the Actifio entry in the sidebar menu</li>
-<li>Drag and drop a step from the Instant Mount category onto the layout</li>
+<li>Drag and drop a step from the Provision Database category onto the layout</li>
 <li>Click the edit icon for the step and enter the required information</li></ul>
 <h2>Limitations</h2>
 <ul><li>Transaction log roll forward not supported</li>
