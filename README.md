@@ -21,8 +21,8 @@
 <li>Click the edit icon for the step and enter the required information</li></ul>
 <h2>Limitations</h2>
 <ul><li>Transaction log roll forward not supported</li>
-<li>Instance level mount not supported</li>
-<li>Individual database mount from instance level capture not supported</li></ul>
+<li>SQL Server instance level mount not supported</li>
+<li>Individual SQL Server database mount from instance level capture not supported</li></ul>
 <h2>License</h2>
 <p>Copyright 2018 Anthony Golia anthony.golia@actifio.com</p>
 <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
