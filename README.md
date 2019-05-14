@@ -1,5 +1,5 @@
 <h1>Actifio UrbanCode Deploy Plugin</h1>
-<p>This project is a plugin for IBM's UrbanCode Deploy solution. The plugin allows process steps to be created that leverage the instant mount capabilities for Microsoft SQL Server that Actifio's data management platform provides.</p>
+<p>This project is a plugin for IBM's UrbanCode Deploy solution. The plugin allows process steps to be created that leverage the instant mount capabilities for Microsoft SQL Server and Oracle that Actifio's data management platform provides.</p>
 <h2>Prequisites</h2>
 <ul><li>Latest release of this plugin</a></li>
 <li>IBM UrbanCode Deploy 6.2.7 or higher</li>
